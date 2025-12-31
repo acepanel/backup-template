@@ -19,10 +19,6 @@ msgstr ""
 msgid "Delete file"
 msgstr ""
 
-#: internal/route/cli.go:61
-msgid "Get directory or file size"
-msgstr ""
-
 #: internal/route/cli.go:51
 msgid "Get file data"
 msgstr ""
@@ -43,27 +39,15 @@ msgstr ""
 msgid "Upload file"
 msgstr ""
 
-#: internal/service/cli.go:66
-#: internal/service/cli.go:88
+#: internal/service/cli.go:39
+#: internal/service/cli.go:52
 msgid "directory path is required"
 msgstr ""
 
-#: internal/service/cli.go:145
+#: internal/service/cli.go:79
 msgid "file path is required"
 msgstr ""
 
-#: internal/service/cli.go:41
-msgid "ftp port is required"
-msgstr ""
-
-#: internal/service/cli.go:203
-msgid "ftp server returned no entries"
-msgstr ""
-
-#: internal/service/cli.go:111
+#: internal/service/cli.go:66
 msgid "local and remote file paths are required"
-msgstr ""
-
-#: internal/service/cli.go:158
-msgid "not supported for performance reasons"
 msgstr ""
